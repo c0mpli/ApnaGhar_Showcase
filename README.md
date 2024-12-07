@@ -17,14 +17,11 @@ Showcase -
 
 https://github.com/user-attachments/assets/7407d93f-1728-4522-9c9a-daa42e704bab
 
-
-![image](https://github.com/user-attachments/assets/e966a2c0-f810-4f6e-90be-3dcac9fc1ab4)
-![image](https://github.com/user-attachments/assets/0e5093ed-ad94-4dd6-99c4-8b8263dc6da5)
-![image](https://github.com/user-attachments/assets/eca4cc4a-3d83-41b6-9b67-c3a73e373bdf)
-![image](https://github.com/user-attachments/assets/005a865d-08aa-44fe-9c84-762a8f8acbc0)
-![image](https://github.com/user-attachments/assets/ad590685-6aa2-4eeb-a736-40f4c06bc8b0)
-
-
+![image](https://github.com/user-attachments/assets/1c9a640b-1c6c-4d9c-b988-e0a517fbf102)
+![image](https://github.com/user-attachments/assets/42a8bcb5-352a-439b-bdc7-e0e47bb084eb)
+![image](https://github.com/user-attachments/assets/9ff68a72-9b8d-4430-8728-4904d4ce7a53)
+![image](https://github.com/user-attachments/assets/f9241f4c-3165-44d7-bdb5-8531bc3da9da)
+![image](https://github.com/user-attachments/assets/de9253f1-a483-4aaf-aa95-63a9ca578dd6)
 
 
 
